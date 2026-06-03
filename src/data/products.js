@@ -24,7 +24,7 @@ export const products = [
     rating: 4.8,
     stock: 20,
     description: "Galaxy AI is here. The Galaxy S24 Ultra with built-in S Pen, 200MP ProVisual Engine camera, 100x Space Zoom, and Snapdragon 8 Gen 3 processor. Titanium frame with Corning Gorilla Glass Armor.",
-    image: "https://images.unsplash.com/photo-1706794850521-6c83f71ea624?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=80",
     featured: true,
   },
   {
