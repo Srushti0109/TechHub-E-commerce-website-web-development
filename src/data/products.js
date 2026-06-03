@@ -189,7 +189,7 @@ export const products = [
     rating: 4.7,
     stock: 20,
     description: "High-fidelity audio with Apple-designed dynamic driver, Adaptive ENC with H2 chip, Personalized Spatial Audio, up to 20 hours of playback. Premium aluminum ear cups and mesh headband.",
-    image: "https://images.unsplash.com/photo-1625245488600-968a36760490?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1200&q=80",
     featured: false,
   },
   {
